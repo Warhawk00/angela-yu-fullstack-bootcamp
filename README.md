@@ -13,14 +13,9 @@ Welcome to my master repository for **The Complete 2026 Web Development Bootcamp
 
 ## 📂 Repository Structure
 
-The code is organized into modular directories corresponding to the bootcamp's curriculum layout:
-
-- 🎨 `/01-HTML-CSS-Basics` — Foundational web structuring, semantic HTML, CSS layout models (Flexbox/Grid), and responsive design.
-- 🟡 `/02-JavaScript-Fundamentals` — Core language syntax, DOM manipulation, event listeners, and algorithmic problem-solving.
-- ⚙️ `/03-Node-Express-Backend` — Server creation, handling HTTP requests/responses, routing, and RESTful API architecture.
-- 🗄️ `/04-Databases-SQL` — Relational database schema design, CRUD operations, and connecting PostgreSQL to Node.js.
-- ⚛️ `/05-React-Frontend` — Component-driven UI development, managing state (`useState`, `useEffect`), and props handling.
-
+- 🎨 `/01-HTML-CSS-Basics` — **[CURRENTLY HERE]** Learning foundational web structuring, semantic HTML, and CSS layout models.
+- ⏳ *More modules will be added as I progress through the curriculum.*
+  
 *Note: Major capstone projects from the later modules are isolated into their own standalone repositories to keep production-ready code clean and deployable.*
 
 ---
