@@ -26,7 +26,7 @@ Welcome to my master repository for **The Complete 2026 Web Development Bootcamp
 | HTML/CSS | Capstone 1: Online Resume | [View Live Site](https://warhawk00.github.io/angela-yu-fullstack-bootcamp/Capstone-Projects/Capstone-Project-1-Online-Resume/) | [Code](./Capstone-Projects/Capstone-Project-1-Online-Resume) |
 ---
 
-## 🛠️ Tech Stack & Tools Mastered
+## 🛠️ Target Tech Stack (Bootcamp Curriculum)
 - **Languages:** HTML5, CSS3, JavaScript (ES6+), SQL
 - **Libraries & Frameworks:** React.js, Express.js, Node.js, Bootstrap
 - **Databases:** PostgreSQL
