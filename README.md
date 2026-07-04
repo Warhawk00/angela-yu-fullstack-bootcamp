@@ -15,10 +15,6 @@ Here is what I am actively working to master throughout this bootcamp:
 - **Web3 & DApps:** Exploring the basics of decentralized applications and blockchain development.
 
 ---
-# Complete Full-Stack Web Development Bootcamp
-
-This repository contains my coursework, projects, and assignments from Dr. Angela Yu's Complete Full-Stack Web Development Bootcamp.
-
 ## 🚀 Course Progress Tracker
 
 ### HTML
