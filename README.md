@@ -74,10 +74,6 @@ This repository contains my coursework, projects, and assignments from Dr. Angel
 - [ ] Section 41: Create Your Own Crypto Token
 - [ ] Section 42: Minting NFTs and Building an NFT Marketplace
 
-## 🏆 Major Capstone Projects
-- [ ] Capstone Project 1 - Personal Site
-- [ ] Capstone Project 2 - Blog Web Application
-- [ ] Capstone Project 3 - Book Notes
 ---
 
 ## 📂 Repository Structure
