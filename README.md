@@ -25,8 +25,8 @@ Here is what I am actively working to master throughout this bootcamp:
 
 ### CSS
 - [x] Section 5: Introduction to CSS
-- [ ] Section 6: CSS Properties
-- [ ] Section 7: Intermediate CSS
+- [x] Section 6: CSS Properties
+- [x] Section 7: Intermediate CSS
 - [ ] Section 8: Advanced CSS
 - [ ] Section 9: Flexbox
 - [ ] Section 10: Grid
@@ -74,7 +74,8 @@ Here is what I am actively working to master throughout this bootcamp:
 
 ## 📂 Repository Structure
 
-- 🎨 `/01-HTML-CSS-Basics` — **[CURRENTLY HERE]** Learning foundational web structuring, semantic HTML, and CSS layout models.
+- `/01-HTML-CSS-Basics` —  Learning foundational web structuring, semantic HTML, and CSS.
+-  `/02-CSS` — **[Currently Here]** Learning about intermediate and advanced CSS.
 - ⏳ *More modules will be added as I progress through the curriculum.*
   
 *Note: Major capstone projects from the later modules are isolated into their own standalone repositories to keep production-ready code clean and deployable.*
