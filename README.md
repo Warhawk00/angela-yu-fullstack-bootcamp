@@ -27,8 +27,8 @@ Here is what I am actively working to master throughout this bootcamp:
 - [x] Section 5: Introduction to CSS
 - [x] Section 6: CSS Properties
 - [x] Section 7: Intermediate CSS
-- [ ] Section 8: Advanced CSS
-- [ ] Section 9: Flexbox
+- [x] Section 8: Advanced CSS
+- [x] Section 9: Flexbox
 - [ ] Section 10: Grid
 - [ ] Section 11: Bootstrap
 - [ ] Section 12: Web Design School
