@@ -29,7 +29,7 @@ Here is what I am actively working to master throughout this bootcamp:
 - [x] Section 7: Intermediate CSS
 - [x] Section 8: Advanced CSS
 - [x] Section 9: Flexbox
-- [ ] Section 10: Grid
+- [x] Section 10: Grid
 - [ ] Section 11: Bootstrap
 - [ ] Section 12: Web Design School
 
